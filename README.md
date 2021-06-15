@@ -11,7 +11,7 @@
 ![image](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![image](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
-### just to name a few, and I it's my job to figure out ways to utilize my engineering background with these technologies to solve complex business problems. 
+### just to name a few, and it's my job to figure out ways to utilize my engineering background with these technologies to solve complex business problems, currently for financial services clients. 
 
 ### Enjoy browzing through my projects (this is a developing portfolio)! 
 ### For more information, click on the LinkedIn banner:
