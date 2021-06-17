@@ -1,6 +1,6 @@
 ![Banner](https://github.com/theunisraubenheimer/theunisraubenheimer/blob/main/Profile%20Photo.jpeg)
 
-## Hi, and welcome to my Github Portfolio!
+## Hi, and welcome to my GitHub Portfolio!
 ### I am an industrial engineer and data scientist, who currently finds himself in the financial services management consulting space. 
 #### I enjoy working with the following technologies:
 ![image](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
